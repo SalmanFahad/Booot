@@ -1,6 +1,6 @@
-token=NDk4Nzk2MzY3Mzk4MDQzNjQ5.DrNgpQ.uGPw3oEASaUfW-l1NivPYodmQwE
+token=NDkxMjc4NzU5ODIzOTMzNDUw.DrNj-w.yNQo7mJs-8b6QDRVuNxrHYj3QTI
 owner=391306171278950401
-prefix=S
-Shelp
+prefix=q
+qplay playlist qr
 stayinchannel=true
 songinstatus=true
