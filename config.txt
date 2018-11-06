@@ -1,3 +1,4 @@
 token=NDk4Nzk2MzY3Mzk4MDQzNjQ5.DrNlSQ.JMjFrBS3Xf0Fsk9sidrCrapLduE
 owner=391306171278950401
 prefix=s
+game= Salman Music!.
