@@ -4,4 +4,4 @@ prefix=s
 game= Salman Music!.
 songinstatus=true
 stayinchannel=true
-status=Idle
+status=Disturb
